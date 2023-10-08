@@ -1,9 +1,9 @@
-[![MasterHead](https://static.wixstatic.com/media/3640fc_54ec1ab7da284ee8af5c609213614ddb~mv2.gif/v1/fit/w_280,h_158,q_90/3640fc_54ec1ab7da284ee8af5c609213614ddb~mv2.gif)](https://Raj-gopal.io)
+[![MasterHead](https://cdn.vox-cdn.com/thumbor/EqpFXfWDUqWhOQFrf3cKrDFwZBU=/0x0:2030x1134/1200x675/filters:focal(838x408:1162x732):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/59408009/Lead_pixels.1523900211.gif)](https://Raj-gopal.io)
 <h1 align="center">Hi 👋, I'm Rajgopal Kumar</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif">
 
-<p align="left"> <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="raj-gopal" /> </p>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-gopal&label=Profile%20views&color=0e75b6&style=flat" alt="raj-gopal" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
