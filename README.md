@@ -1,9 +1,9 @@
-[![MasterHead](https://cdn.vox-cdn.com/thumbor/EqpFXfWDUqWhOQFrf3cKrDFwZBU=/0x0:2030x1134/1200x675/filters:focal(838x408:1162x732):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/59408009/Lead_pixels.1523900211.gif)](https://Raj-gopal.io)
+[![MasterHead](https://static.wixstatic.com/media/3640fc_54ec1ab7da284ee8af5c609213614ddb~mv2.gif/v1/fit/w_280,h_158,q_90/3640fc_54ec1ab7da284ee8af5c609213614ddb~mv2.gif)](https://Raj-gopal.io)
 <h1 align="center">Hi 👋, I'm Rajgopal Kumar</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&sca_esv=571674645&rlz=1C1CHBF_enIN1014IN1014&tbm=isch&sxsrf=AM9HkKkiWak3Wt2fvmCss_x7fmsT4XGnvA:1696746864839&source=lnms&sa=X&sqi=2&ved=2ahUKEwi43JvR6uWBAxUbcGwGHeUGAqEQ_AUoAXoECAEQAw&biw=1536&bih=754&dpr=1.25#imgrc=ITaGGdoGDaxxhM">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-gopal&label=Profile%20views&color=0e75b6&style=flat" alt="raj-gopal" /> </p>
+<p align="left"> <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="raj-gopal" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -25,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj-gopal&show_icons=true&locale=en" alt="raj-gopal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj-gopal&" alt="raj-gopal" /></p>
-
