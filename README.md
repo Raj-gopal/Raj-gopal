@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/rajgopalkumar](https://www.behance.net/rajgopalkumar)
-
 - 📫 How to reach me **rajgk0000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
