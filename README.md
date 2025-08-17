@@ -1,4 +1,4 @@
-[![MasterHead](<img width="1584" height="396" alt="Dark Green Minimalist Inspirational Quote LinkedIn Banner" src="https://github.com/user-attachments/assets/c34409d5-219c-4836-8a34-980df4a3b79c" />
+[(<img width="1584" height="396" alt="Dark Green Minimalist Inspirational Quote LinkedIn Banner" src="https://github.com/user-attachments/assets/c34409d5-219c-4836-8a34-980df4a3b79c" />
 )]
 <h1 align="center">Hi 👋, I'm Rajgopal Kumar</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
