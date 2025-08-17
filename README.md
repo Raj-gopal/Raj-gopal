@@ -1,4 +1,5 @@
-[![MasterHead](https://cdn.vox-cdn.com/thumbor/EqpFXfWDUqWhOQFrf3cKrDFwZBU=/0x0:2030x1134/1200x675/filters:focal(838x408:1162x732):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/59408009/Lead_pixels.1523900211.gif)](https://Raj-gopal.io)
+[![MasterHead](<img width="1584" height="396" alt="Dark Green Minimalist Inspirational Quote LinkedIn Banner" src="https://github.com/user-attachments/assets/c34409d5-219c-4836-8a34-980df4a3b79c" />
+)]
 <h1 align="center">Hi 👋, I'm Rajgopal Kumar</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
