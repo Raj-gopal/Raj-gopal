@@ -31,7 +31,7 @@
 
 #### 💻 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,js,ts,dart,python" height="40" />
+  <img src="https://skillicons.dev/icons?i=cpp,kotlin,js,dart" height="40" />
 </p>
 
 #### 📱 Mobile & Frontend  
